@@ -1,0 +1,7 @@
+{
+  "name": "fitw-web",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
