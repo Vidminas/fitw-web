@@ -75,7 +75,7 @@ const Page: React.FC<PageProps> = ({
         <p>{pageNum}'th Left</p>
       </div>
       <div className="page-side-right">
-        <p>{pageNum}'th Right</p>
+        <a href="/game">{pageNum}'th Right</a>
       </div>
     </div>
   );
